@@ -1,0 +1,37 @@
+@media screen and (max-width: 8000px) {
+    .ResposiveCarousel{
+        display: none;
+    }
+  }
+  @media screen and (max-width: 1900px) {
+    .ResposiveCarousel{
+        display: block;
+    }
+  }
+
+  @media screen and (max-width: 8000px) {
+    .ResposiveCarousel02{
+        display: block;
+    }
+  }
+  @media screen and (max-width: 1900px) {
+    .ResposiveCarousel02{
+        display: none;
+    }
+  }
+  /* Arrow */
+  /* .slick-prev:before {
+  width: 80px;
+  height: 100px;
+content: '' !important;
+position: absolute;
+top: -30px;
+left: -60px;
+background-image: url('Arrow11.png');
+background-repeat: no-repeat;
+vertical-align: middle;
+background-size: 80px;
+opacity: 1 !important;
+
+
+} */

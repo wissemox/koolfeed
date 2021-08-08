@@ -1,7 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue','Cocogoose Pro',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -10,4 +18,183 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.compondent{
+  position: sticky;
+  top: 0;
+}
+.compondent01{
+  position: sticky;
+  top: 80px;
+}
+.fontRobot{
+  font-family: 'Roboto';
+}
+
+.fontMontserrat{
+  font-family: "Montserrat" , "Medium" ;
+}
+/* 'Untitled-2.png */
+.backgroundImage{
+  background: url('Untitled-2.png') no-repeat fixed 100% 100%;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.backgroundImage04{
+  background-color: tomato;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.backgroundImage02{
+  background: url('Untitled-4.png') no-repeat fixed 100% 100%;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+/* Test */
+.BackgroundimageFullimage{
+  background: url('Test01.jpg') no-repeat fixed 100% 100%;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.TestANimationclick{
+  -webkit-transition: 2s;
+  animation:animatio 1s;
+}
+@keyframes animatio{
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 50%, 0);
+    transform: translate3d(0, -20%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+
+.OppscityAnimation{
+  animation:AnimationOpcity 1s ;
+}
+@keyframes AnimationOpcity{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.ScaleAnimation{
+  animation: ScalAnimation 2s;
+}
+/* transform: scale(1.5) */
+@keyframes ScalAnimation{
+  from {
+    transform: scale(0)
+  }
+  to {
+    transform: scale(1)
+  }
+}
+
+
+.HoverTest:hover{
+ 
+  -webkit-transition: 1s;
+  
+  background-color: #f1f1f1;
+  color: #FF33BB;
+  padding-left: 14px;
+  cursor: pointer;
+}
+.TestTesthover:hover .testhere{
+  background-color: red;
+}
+.curser{
+  cursor: pointer;
+}
+.borderls{
+  
+  border-right: 2px solid rgb(204, 204, 204);
+  border-style: dotted;
+}
+.slick-prev {
+  content: "<";
+  color: red;
+
+
+  left: 3% !important;
+  z-index: 1;
+}
+.slick-prev:before {
+  width: 80px;
+  height: 100px;
+content: '' !important;
+position: absolute;
+top: -30px;
+left: -60px;
+background-image: url('Arrow11.png');
+background-repeat: no-repeat;
+vertical-align: middle;
+background-size: 80px;
+opacity: 1 !important;
+
+
+}
+@media screen and (max-width: 600px) {
+  .slick-prev:before {
+   
+    display: none;
+  
+  } 
+}
+.slick-next:before{
+  /* background-color: blue !important; */
+  width: 80px;
+  height: 100px;
+  content: '' !important;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  background-image: url('Arroww02.png');
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  background-size: 80px;
+  opacity: 1 !important;
+  }
+  .hoverTestanimationimage:hover{
+    -webkit-transition: 1s;
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+
+  }
+  
+
+  /*Zoom Out*/
+ 
+.backgroundblackoverlay{
+  background: linear-gradient(
+    to bottom,
+    transparent, 
+    black
+  );
+ opacity: 80%;
+ width: 389px;
+ height: 71px;
+ border-bottom-right-radius: 10px ;
+ border-bottom-left-radius:10px;
 }
