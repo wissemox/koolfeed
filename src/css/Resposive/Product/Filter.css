@@ -1,0 +1,295 @@
+/* DisplayNoneResposiveFilter */
+
+/* 25% Repsoive Tele  */
+
+/* Product taf */
+/* !marginLeftIconProfileResposie! Profile i con */
+/* !ml-14ResposiveProdut! allproduct */
+/* !widhtHeagithResposiveProduct! Image with hight */
+/* !widhtPrestageResposiveRating ! Rating With */
+@media screen and (max-width: 8000px) {
+  .heaightResposiveProductFreeDelivery{
+    margin-top: 20px;
+    height: 100px;
+  }
+    .DisplayNoneAddressRespsive{
+        display: none;
+    }
+    .mt-60RepsposiveProduct{
+        margin-top: 60px;
+    }
+  .HeaightCarosuel160 {
+    height: 160px;
+  }
+  .heaightResposiveImageCarousel {
+    width: 160px;
+  }
+  .justify-endChangeCenter {
+    justify-content: end;
+  }
+  .marginLeftIconProfileResposie {
+    margin-left: 150px;
+  }
+  .widhtHeagithResposiveProduct {
+    width: 300px;
+    height: 180px;
+  }
+  .text-2xlResponsive {
+    font-size: 28px;
+  }
+  .ml-14ResposiveProdut {
+    margin-left: 60px;
+  }
+  .DisplayNoneResposiveFilter {
+    display: block;
+  }
+  .wp-90Presntage {
+    width: 90%;
+  }
+  .w-70Responisive{
+      width: 70%;
+  }
+}
+/* Reposive 125% */
+
+@media screen and (max-width: 1200px) {
+  .wp-90Presntage {
+    width: 90%;
+  }
+  .DisplayNoneResposiveFilter {
+    display: none;
+  }
+  .w-70Responisive {
+    width: 100%;
+  }
+}
+/* ml-14ResposiveProdut */
+
+@media screen and (max-width: 1000px) {
+  
+  .ml-14ResposiveProdut {
+    margin-left: 50px;
+  }
+}
+@media screen and (max-width: 1030px) {
+  .mt-120{
+    margin-top: 200px;
+  }
+  
+  .widhtHeagithResposiveProduct {
+    width: 450px;
+    height: 280px;
+  }
+  .marginLeftIconProfileResposie{
+    margin-left: 275px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .mt-120{
+    margin-top: 140px;
+  }
+  .widhtHeagithResposiveProduct {
+    width: 320px;
+    height: 220px;
+  }
+  
+  .marginLeftIconProfileResposie{
+    margin-left: 175px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .mt-120{
+    margin-top: 180px;
+  }
+    .DisplayNoneAddressRespsive{
+        display: block;
+    }
+  /* Product Modifctio */
+  .heaightResposiveImageCarousel {
+    height: 130px;
+    width: 160px;
+  }
+  .heaightResposiveImageCarousel img{
+      height: 100px;
+  }
+  .marginLeftIconProfileResposie {
+    margin-left: 300px;
+  }
+  .TextResponsive {
+    font-size: 80%;
+  }
+  .text-2xlResponsive {
+    font-size: 100%;
+  }
+  .displayNoneTextReposive {
+    display: none;
+  }
+  .wp-90Presntage {
+    width: 80%;
+  }
+  .ml-14ResposiveProdut {
+    margin-left: 50px;
+  }
+  .widhtHeagithResposiveProduct {
+    width: 440px;
+    height: 250px;
+  }
+  .widhtPrestageResposiveRating {
+    width: 110%;
+  }
+  .HeaightCarosuel160{
+        height: 160px;
+  }
+  .mt-60RepsposiveProduct{
+      margin-top: 20px;
+  }
+}
+@media screen and (max-width: 580px){
+  .widhtHeagithResposiveProduct {
+    width: 440px;
+    height: 240px;
+  }
+  .mt-120{
+    margin-top: 160px;
+  }
+} 
+@media screen and (max-width: 540px){
+  .mt-120{
+    margin-top: 140px;
+  }
+  .mt-120{
+    margin-top: 180px;
+  }
+  .widhtHeagithResposiveProduct {
+    width: 400px;
+    height: 250px;
+  }
+  .marginLeftIconProfileResposie{
+    margin-left: 268px;
+  }
+}
+@media screen and (max-width: 540px){
+  .mt-120{
+    margin-top: 140px;
+  }
+  .mt-120{
+    margin-top: 180px;
+  }
+  .widhtHeagithResposiveProduct {
+    width: 380px;
+    height: 250px;
+  }
+  .marginLeftIconProfileResposie{
+    margin-left: 268px;
+  }
+  .marginLeftIconProfileResposie{
+    margin-left: 220px;
+  }
+}
+@media screen and (max-width: 421px) {
+  .mt-120{
+    margin-top: 140px;
+  }
+  .heaightResposiveProductFreeDelivery{
+    height: 100px;
+  }
+  .ml-14ResposiveProdut {
+    margin-left: 40px;
+  }
+    .widhtHeagithResposiveProduct {
+        width: 310px;
+        height: 200px;
+      }
+      .widhtPrestageResposiveRating {
+        width: 98%;
+      } 
+      .marginLeftIconProfileResposie{
+        margin-left: 160px;
+      }
+}
+/* Ipohne 5/SE */
+@media screen and (max-width: 330px) {
+  .mt-120{
+    margin-top: 140px;
+  }
+  .heaightResposiveProductFreeDelivery{
+    height: 50px;
+  }
+  .ml-14ResposiveProdut {
+    margin-left: 40px;
+  }
+    .widhtHeagithResposiveProduct {
+        width: 220px;
+        height: 200px;
+      }
+      .widhtPrestageResposiveRating {
+        width: 98%;
+      } 
+      .marginLeftIconProfileResposie{
+        margin-left: 80px;
+      }
+      .text-2xlResponsive {
+        font-size: 14px;
+      }
+      .TextResponsive{
+        display: none;
+     }
+}
+@media screen and (max-width: 380px) {
+  .heaightResposiveProductFreeDelivery{
+    height: 50px;
+  }
+  .ml-14ResposiveProdut {
+    margin-left: 40px;
+  }
+    .widhtHeagithResposiveProduct {
+        width: 270px;
+        height: 200px;
+      }
+      .widhtPrestageResposiveRating {
+        width: 98%;
+      } 
+      .marginLeftIconProfileResposie{
+        margin-left: 120px;
+      }
+      .text-2xlResponsive {
+        font-size: 14px;
+      }
+      .TextResponsive{
+        display: none;
+     }
+}
+/* heaightResposiveProductFreeDelivery */
+
+@media screen and (max-width: 290px) {
+  .ml-6{
+    margin-left: 0px;
+  }
+  .heaightResposiveProductFreeDelivery{
+    height: 50px;
+  }
+  .ml-14ResposiveProdut {
+    margin-left: 30px;
+  }
+    .widhtHeagithResposiveProduct {
+        width: 220px;
+        height: 180px;
+      }
+      .widhtPrestageResposiveRating {
+        width: 98%;
+      } 
+      .marginLeftIconProfileResposie{
+        margin-left: 70px;
+      }
+      .text-2xlResponsive {
+        font-size: 12px;
+      }
+      .TextResponsive{
+        display: none;
+     }
+}
+
+/* ml-6Reposive2 */
+

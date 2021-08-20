@@ -1,3 +1,43 @@
+.w-30{
+    width: 30px;
+}
+.w-6-12{
+    width: 50%;
+}
 .w-50{
     width: 150px;
+}
+.w-250{
+    width: 250px;
+}
+.w-120{
+    width: 120px;
+}
+.w-170{
+    width: 170px;
+}
+.h-170{
+    height: 170px;
+}
+.w-300px{
+    width: 300px;
+}
+.w-50resposive{
+    width: 50px;
+}
+.w-170Resposive{
+    width: 170px;
+}
+/* Prenstage with */
+.wp-60{
+width: 60%;
+}
+
+/* Resposive */
+.ResposiveWithHeaightCarousel{
+    width: 250px;
+    height: 300px;
+}
+.marginTop250ResposiveCarousel{
+    margin-top: 230px;
 }

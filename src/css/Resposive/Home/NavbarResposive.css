@@ -1,0 +1,151 @@
+@media screen and (max-width: 9000px) {
+    .marginLeftResposiveNavbar{
+        margin-left: 2250px;
+        -webkit-transition: 2s;
+
+    }
+    .marginRightResposiveNavbar{
+        margin-right: 2250px;
+        -webkit-transition: 2s;
+    }
+    .DisplaynoneNavbarResposive01{
+        display: none;
+    }
+    .imageResposiveLogo{
+        width: 150px;
+    }
+  }
+
+@media screen and (max-width: 5000px) {
+    .marginLeftResposiveNavbar{
+        margin-left: 1500px;
+        -webkit-transition: 2s;
+
+    }
+    .marginRightResposiveNavbar{
+        margin-right: 1500px;
+        -webkit-transition: 2s;
+    }
+  }
+
+@media screen and (max-width: 4000px) {
+    .marginLeftResposiveNavbar{
+        margin-left: 700px;
+        -webkit-transition: 2s;
+
+    }
+    .marginRightResposiveNavbar{
+       
+        margin-right: 700px;
+        -webkit-transition: 2s;
+    }
+    .imageResposiveLogo{
+        width: 150px;
+    }
+  }
+  @media screen and (max-width: 2400px) {
+    .marginLeftResposiveNavbar{
+        
+        margin-left: 4px;
+        
+    }
+    .marginRightResposiveNavbar{
+        margin-right: 7px;
+        -webkit-transition: 2s;
+    }
+    .fontsizeResposive{
+        font-size: 18px;
+      }
+      .imageResposiveLogo{
+          width: 150px;
+      }
+  }
+
+
+ 
+  @media screen and (max-width: 1500px) {
+    .fontsizeResposive{
+        font-size: 17px;
+    
+        }
+        
+  }
+  @media screen and (max-width: 1400px) {
+    .fontsizeResposive{
+        font-size: 16px;
+    
+        }
+        .imageResposiveLogo{
+            -webkit-transition: 2s;
+
+            width: 140px;
+        }
+        
+  }
+
+  @media screen and (max-width: 1300px) {
+    .fontsizeResposive{
+        -webkit-transition: 2s;
+
+        font-size: 14px;
+     
+        
+    
+        }
+        .imageResposiveLogo{
+            -webkit-transition: 2s;
+
+            width: 130px;
+
+            }
+  }
+
+  @media screen and (max-width: 1200px) {
+    .fontsizeResposive{
+        font-size: 12px;
+     
+        
+    
+        }
+        .imageResposiveLogo{
+            -webkit-transition: 2s;
+
+            width: 110px;
+
+            }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .fontsizeResposive{
+        font-size: 12px;
+     
+        
+    
+        }
+        .imageResposiveLogo{
+            -webkit-transition: 2s;
+
+            width: 30%;
+
+            }
+  }
+  @media screen and (max-width: 820px) {
+    .DsiplayNoneResponiveNavbar{
+        display: none;
+    }
+    .DisplaynoneNavbarResposive01{
+        display: flex;
+    }
+  }
+
+
+  @media screen and (max-width: 500px) {
+    .imageResposiveLogo{
+        width: 60px;
+    }
+   
+  }
+  /* imageResposiveLogo */
+/* DsiplayNoneResponiveNavbar */
+
+  /* Telephon ipad */

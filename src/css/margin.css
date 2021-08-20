@@ -3,13 +3,62 @@
 .ml-590{
     margin-left: 590px;
 }
+.ml-30px{
+    margin-left: 30px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
 /* MarginLeft */
+.ml-10px{
+    margin-left: 10px;
+}
+.ml-160{
+    margin-left: 160px;
+}
+.ml-20px{
+    margin-left: 20px;
+}
+.ml-100{
+    margin-left: 100px;
+}
+.ml-20Resposive{
+    margin-left: 80px;
+}
+.marginLeftResposiveTextType{
+    margin-left: 80px;
+}
+/*  MarginTop */
 .mt-40{
     margin-top: 40px;
+}
+.mt-60{
+    margin-top: 60px;
+}
+.mt-120{
+    margin-top: 120px;
+}
+.mt-200{
+    margin-top: 200px;
 }
 .mt-220{
     margin-top: 220px;
 }
 .mt-160{
     margin-top: 160px;
+}
+/* MaringRight */
+.mr-30{
+    margin-right: 30px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.marginLeaftRespsoive{
+    margin-left: 200px;
 }

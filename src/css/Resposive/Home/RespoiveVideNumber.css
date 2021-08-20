@@ -1,0 +1,609 @@
+/* MainHome Resposive  */
+/* Reposive 25% */
+@media screen and (max-width: 8000px) {
+  .marginResposiveProfessional{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .displaynoneResposiveProfesional{
+    display: none;
+  }
+ .displaynone01{
+   display: none;
+ }
+  .mt-200{
+    margin-top: 500px;
+  }
+  .heaightChnage{
+    height: 800px;
+  }
+  .dispaynoneimageRespoive{
+    display: none;
+  }
+  .displanoneInput{
+    display: none;
+  }
+   .MatingTopNavbarRESPOVIE{
+     margin-top: 520px;
+   }
+  .TextfontSizeRespoive{
+    font-size: 24px;
+  }
+  .text-6xl{
+    font-size: 50px;
+  }
+  .SousCatgoryTest  {
+   
+  }
+  .SousCatgoryTest ::placeholder {
+    font-size: 15px;
+    color: rgb(117, 117, 117);
+  }
+ 
+  
+  .widhtResposiveNavbar{
+    width: 640px;
+    height: 20px;
+  }
+  .paddingResposive08{
+    padding: 25px;
+  }
+  }
+/* Reposive 50% */
+
+  @media screen and (max-width: 4000px) {
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 650px;
+    }
+    
+    .mt-200{
+      margin-top: 500px;
+    }
+    .heaightChnage{
+      height: 930px;
+    }
+  
+  }
+  /* Reposive 60% */
+
+  @media screen and (max-width: 3000px) {
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 400px;
+    }
+    
+    .mt-200{
+      margin-top: 400px;
+    }
+    .heaightChnage{
+      height: 680px;
+    }
+  
+  }
+    /* Reposive 80% */
+
+  @media screen and (max-width: 2200px) {
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 360px;
+    }
+    .heaightChnage{
+      height: 640px;
+    }
+    .mt-200{
+      margin-top: 320px;
+    }
+  
+  }
+  @media screen and (max-width: 2000px) {
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 320px;
+    }
+    .heaightChnage{
+      height: 600px;
+    }
+    .mt-200{
+      margin-top: 300px;
+    }
+  
+  }
+      /* Reposive 80% */
+
+  @media screen and (max-width: 1800px) {
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 270px;
+    }
+    .heaightChnage{
+      height: 550px;
+    }
+    .mt-200{
+      margin-top: 250px;
+    }
+  
+  }
+
+  
+
+/* repsive 100% */
+  @media screen and (max-width: 1600px) {
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 250px;
+    }
+    .heaightChnage{
+      height:530px;
+    }
+    .mt-200{
+      margin-top: 200px;
+    }
+  
+  }
+ 
+  
+  
+     /* Reposive 150% */
+
+  @media screen and (max-width: 1400px) {
+    .heaightChnage{
+      height: 440px;
+    }
+    .MatingTopNavbarRESPOVIE{
+      margin-top: 162px;
+    }
+    .TextfontSizeRespoive{
+      font-size: 20px;
+    }
+    .displaynone{
+      display: none;
+    }
+    .displaynone01{
+      display: block;
+    }
+  }
+
+  /*  .text-6xl{
+      font-size: 40px;
+    } */
+
+    /* Resposive 175% */
+    @media screen and (max-width: 1300px) {
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 159px;
+      }
+      .text-6xl{
+        font-size: 40px;
+      }
+      .margintopnavbarnumber{
+        margin-top: 150px;
+      }
+      .mt-200{
+        margin-top: 160px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 100%;
+      }
+      .heaightChnage{
+        height: 410px;
+      }
+    }
+/* 175% zoom */
+    @media screen and (max-width: 1200px) {
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 100px;
+      }
+   
+      .heaightChnage{
+        height: 320px;
+      }
+      .text-6xl{
+        font-size: 35px;
+      }
+      .SousCatgoryTest ::placeholder {
+        font-size: 12px;
+        color: rgb(117, 117, 117);
+      }
+      .margintopnavbarnumber{
+        margin-top: 150px;
+      }
+     
+     
+
+      .widhtResposiveNavbar{
+        width: 550px;
+        
+      }
+      .paddingResposive08{
+        padding: 20px;
+      }
+    }
+   
+/* 175% */
+    @media screen and (max-width: 1100px) {
+      .text-6xl{
+        font-size: 35px;
+      }
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 100px;
+      }
+      .mt-200{
+        margin-top: 150px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 15px;
+      }
+      .TextResposive02{
+        font-size: 11px;
+      }
+      .f-19{
+        font-size: 14px;
+      }
+      .ml-590{
+        margin-left: 500px;
+      }
+    }
+
+   /*200% zoom  */
+    @media screen and (max-width: 900px) {
+      .fontsizeRespsive{
+        font-size: 10px;
+      }
+      .SousCatgoryTest ::placeholder {
+        font-size: 10px;
+      }
+      .widhtResposiveNavbar{
+        width: 480px;
+        
+      }
+      .paddingResposive08{
+        padding: 17px;
+      }
+      .heaightChnage{
+        height: 280px;
+      }
+      .text-6xl{
+        font-size: 29px;
+      }
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 80px;
+      }
+      .mt-200{
+        margin-top: 130px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 15px;
+      }
+      .TextResposive02{
+        font-size: 9px;
+      }
+      .f-19{
+        font-size: 10px;
+      }
+      .ml-590{
+        margin-left: 430px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 14px;
+      }
+    }
+
+/* 200% zoom */
+
+    @media screen and (max-width: 800px) {
+     
+      .SousCatgoryTest ::placeholder {
+        font-size: 9px;
+      }
+      .widhtResposiveNavbar{
+        width: 420px;
+        
+      }
+      .paddingResposive08{
+        padding: 14px;
+      }
+      .heaightChnage{
+        height: 240px;
+      }
+      .text-6xl{
+        font-size: 26px;
+      }
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 80px;
+      }
+      .mt-200{
+        margin-top: 120px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 15px;
+      }
+      .TextResposive02{
+        font-size: 9px;
+      }
+      .f-19{
+        font-size: 9px;
+      }
+      .ml-590{
+        margin-left: 430px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 10px;
+      }
+      .displaynoneimage{
+        display: none;
+      }
+      .mt-5{
+        margin-top: 2px;
+      }
+    }
+/* 200% */
+    @media screen and (max-width: 700px) {
+      
+      .SousCatgoryTest ::placeholder {
+        font-size: 8px;
+      }
+      .widhtResposiveNavbar{
+        
+        width: 330px;
+        
+      }
+      .paddingResposive08{
+        padding: 11px;
+      }
+      .heaightChnage{
+        height: 190px;
+      }
+      .text-6xl{
+        font-size: 23px;
+      }
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 45px;
+      }
+      .mt-200{
+        margin-top: 100px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 15px;
+      }
+      .TextResposive02{
+        font-size: 7.5px;
+      }
+      .f-19{
+        font-size: 9px;
+      }
+      .ml-590{
+        margin-left: 430px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 10px;
+      }
+      .displaynoneimage{
+        display: none;
+      }
+      .mt-5{
+        margin-top: 2px;
+      }
+    }
+
+/* Phone */
+    @media screen and (max-width: 600px) {
+     
+      .marginResposiveProfessional{
+        margin-top: 2px;
+        margin-bottom: 20px;
+      }
+      .displaynonePrefesiona2{
+        display: none;
+      }
+      .displaynoneResposiveProfesional{
+        display: block;
+      }
+      .dispaynoneimageRespoive{
+        display: block;
+      }
+      .displanoneInput{
+        margin-top: 10px;
+        display: flex;
+      }
+      
+      .widthInput02{
+        height: 13px;
+        
+      }
+      .displaynoneNavbarResposive03{
+        display: none;
+      }
+      .displaynoneResposive{
+        display: none;
+      }
+      
+      .SousCatgoryTest ::placeholder {
+        font-size: 7px;
+        
+      }
+      .widhtResposiveNavbar{
+        
+        width: 300px;
+        
+        
+      }
+      .paddingResposive08{
+        padding: 9px;
+      }
+      .heaightChnage{
+        height: 160px;
+      }
+      .text-6xl{
+        font-size: 20px;
+      }
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 32px;
+      }
+      .mt-200{
+        margin-top: 80px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 15px;
+      }
+      .TextResposive02{
+        font-size: 6.3px;
+      }
+      .f-19{
+        font-size: 9px;
+      }
+      .ml-590{
+        margin-left: 430px;
+      }
+      .TextfontSizeRespoive{
+        font-size: 10px;
+      }
+      .displaynoneimage{
+        display: none;
+      }
+      .mt-5{
+        margin-top: 2px;
+      }
+    }
+
+
+    
+    @media screen and (max-width: 500px) {
+      
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 60px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 100px;
+      }
+      .heaightChnage{
+        height: 180px;
+      }
+    }
+
+     
+    @media screen and (max-width: 400px) {
+     
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 40px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 90px;
+      }
+      .heaightChnage{
+        height: 170px;
+      }
+    }
+    @media screen and (max-width: 360px) {
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 20px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 80px;
+      }
+      .heaightChnage{
+        height: 150px;
+      }
+    }
+    @media screen and (max-width: 421px) {
+      
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 70px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 90px;
+      }
+      .heaightChnage{
+        height: 190px;
+      }
+    }
+    @media screen and (max-width: 415px) {
+     
+      .MatingTopNavbarRESPOVIE{
+        margin-top: 60px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 90px;
+      }
+      .heaightChnage{
+        height: 180px;
+      }
+    }
+
+
+    @media screen and (max-width: 385px) {
+      .MatingTopNavbarRESPOVIE{
+        margin-top:10px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 70px;
+      }
+      .heaightChnage{
+        height: 140px;
+      }
+    }
+    @media screen and (max-width: 330px) {
+      .MatingTopNavbarRESPOVIE{
+        margin-top:10px;
+      }
+      .text-6xl{
+        font-size: 16px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 70px;
+      }
+      .heaightChnage{
+        height: 140px;
+      }
+    }
+
+    @media screen and (max-width: 290px) {
+      .MatingTopNavbarRESPOVIE{
+        margin-top:15px;
+      }
+      .text-6xl{
+        font-size: 14px;
+      }
+      .TextResposive02{
+        font-size: 4.3px;
+      }
+      .mt-200{
+        margin-top: 70px;
+      }
+      .heaightChnage{
+        height: 140px;
+      }
+    }

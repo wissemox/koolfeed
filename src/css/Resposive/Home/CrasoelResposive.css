@@ -1,0 +1,171 @@
+@media screen and (max-width: 8000px) {
+    .ResposiveCarousel{
+        display: none;
+    }
+    .marginTopResposive{
+      margin-top: 220px;
+    }
+    
+  }
+  /* 90% zom */
+  @media screen and (max-width: 1900px) {
+    .marginLeaftRespsoive{
+      -webkit-transition: 1s;
+
+      margin-left: 230px;
+    }
+    .ResposiveCarousel{
+      -webkit-transition: 1s;
+
+        display: block;
+    }
+    .widhtheightResposive{
+      -webkit-transition: 1s;
+
+      width: 250px;
+    }
+  }
+
+  /* 90% zom */
+  @media screen and (max-width: 1900px) {
+  
+    .HeaightWidht{
+      -webkit-transition: 1s;
+
+      height: 300px;
+    }
+    .ResposiveCarousel02{
+      -webkit-transition: 1s;
+
+        display: none;
+    }
+  }
+
+/* 150% zoom */
+  @media screen and (max-width: 1200px) {
+ 
+    .heaightResposive{
+      -webkit-transition: 1s;
+
+      height: 250px;
+    }
+    .ResposiveWithHeaightCarousel{
+      margin-top: 50px;
+      -webkit-transition: 1s;
+
+      width: 250px;
+      height: 200px;
+    }
+    .marginTop250ResposiveCarousel{
+      margin-top: 130px;
+      -webkit-transition: 1s;
+
+    }
+    .HeaightWidht{
+      height: 200px;
+      -webkit-transition: 1s;
+
+    }
+  }
+  /* Phone screen 200% zoom */
+  @media screen and (max-width: 600px) {
+    .mt-14{
+      -webkit-transition: 1s;
+
+      margin-top: 20px;
+    }
+    .marginLeaftRespsoive{
+      -webkit-transition: 1s;
+
+      margin-left: 140px;
+    }
+    .heaightResposive{
+      -webkit-transition: 1s;
+
+      height: 150px;
+    }
+   
+    .marginTop250ResposiveCarousel{
+      margin-top: 50px;
+      -webkit-transition: 1s;
+
+    }
+    .HeaightWidht{
+      -webkit-transition: 1s;
+
+      height: 120px;
+    }
+    .widhtheightResposive{
+      -webkit-transition: 1s;
+
+      width: 150px;
+    }
+  }
+  /* 250% zoom */
+  @media screen and (max-width: 400px) {
+    .marginLeaftRespsoive{
+      -webkit-transition: 1s;
+
+      margin-left: 140px;
+    }
+    .heaightResposive{
+      -webkit-transition: 1s;
+
+      height: 150px;
+    }
+   
+    
+    .HeaightWidht{
+      -webkit-transition: 1s;
+
+      height: 120px;
+    }
+    .widhtheightResposive{
+      -webkit-transition: 1s;
+
+      width: 150px;
+    }
+  }
+/* Iphone 6 7 8  */
+  @media screen and (max-width: 380px) {
+    .marginLeaftRespsoive{
+      -webkit-transition: 1s;
+
+      margin-left: 140px;
+    }
+    .heaightResposive{
+      -webkit-transition: 1s;
+
+      height: 150px;
+    }
+   
+    
+    .HeaightWidht{
+      -webkit-transition: 1s;
+
+      height: 120px;
+    }
+    .widhtheightResposive{
+      -webkit-transition: 1s;
+
+      width: 150px;
+    }
+  }
+
+  
+  /* Arrow */
+  /* .slick-prev:before {
+  width: 80px;
+  height: 100px;
+content: '' !important;
+position: absolute;
+top: -30px;
+left: -60px;
+background-image: url('Arrow11.png');
+background-repeat: no-repeat;
+vertical-align: middle;
+background-size: 80px;
+opacity: 1 !important;
+
+
+} */

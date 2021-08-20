@@ -1,0 +1,88 @@
+/* f-45 */
+/* Reposive pc && ipad 90% */
+@media screen and (max-width: 1900px) { 
+    
+    .f-45{
+        font-size: 30px;
+    }
+    .text-4xl{
+        font-size: 25px;
+        height: 40px;
+    }
+    .text-sm{
+        font-size: 10px;
+    }
+}
+/* Telephone ipdad 175% zome */
+@media screen and (max-width: 1000px) { 
+    
+    .f-45{
+        font-size: 30px;
+    }
+    .text-4xl{
+        font-size: 25px;
+        height: 40px;
+    }
+    .text-sm{
+        font-size: 10px;
+    }
+}
+/* Reposive pc && ipad 175% zome */
+
+@media screen and (max-width: 900px) { 
+   
+    .f-45{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+     
+    .f-45{
+        font-size: 29px;
+    }
+}
+
+@media screen and (max-width: 700px) { 
+    .f-45{
+        font-size: 22px;
+    }
+    .f-26{
+        font-size: 19px;
+    }
+}
+/* Resposive Mobile  200% zomm*/
+@media screen and (max-width: 600px) { 
+    .f-45{
+        font-size: 35x;
+        height: 40px;
+
+    }
+    .f-26{
+        font-size: 15px;
+    }
+}
+/* Phone */
+/*  Reposive phone  Pixel 2 , Pixel2 XL ,  */
+@media screen and (max-width: 420px) { 
+    .f-45{
+        font-size: 25px;
+        height: 40px;
+    }
+    .f-26{
+        font-size: 12px;
+        height: 5px;
+    }
+}
+/*  Reposive phone  Pixel 2 , Pixel2 XL ,  */
+
+@media screen and (max-width: 400px) { 
+    .f-45{
+        font-size: 25px;
+        height: 40px;
+    }
+    .f-26{
+        font-size: 12px;
+        height: 5px;
+    }
+}

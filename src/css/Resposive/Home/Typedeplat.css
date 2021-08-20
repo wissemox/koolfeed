@@ -1,0 +1,240 @@
+/* Repsoive ipad */
+/* Ordinater ipad 175% zom */
+@media screen and (max-width: 1200px) {
+
+    .w-170{
+        width: 100px;
+    }
+    .h-170{
+        height: 100px;
+    }
+    .ml-20Resposive{
+        margin-left:70px;
+    }
+    .marginLeftResposiveTextType{
+        margin-left: 0px;
+        padding-left: 60px;
+    }
+    .text-xlResposive{
+        font-size: 14px;
+    }
+}
+
+/* Phone  200% zoom*/
+@media screen and (max-width: 800px) {
+    .w-170Resposive{
+        width: 100%;
+    }
+    .w-170{
+        width: 150px;
+    }
+    .h-170{
+        height: 150px;
+    }
+    .text-xlResposive{
+        font-size: 25px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 13%;
+}
+}
+
+/* 200% zoom */
+@media screen and (max-width: 700px) {
+    .w-170{
+        width: 150px;
+    }
+    .h-170{
+        height: 150px;
+    }
+    .text-xlResposive{
+        font-size: 25px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 20%;
+}
+
+}
+/* Reposive phone  */
+@media screen and (max-width: 600px) {
+  
+    .w-170{
+        width: 150px;
+    }
+    .h-170{
+        height: 150px;
+    }
+    .text-xlResposive{
+        font-size: 25px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:43%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 24%;
+}
+
+}
+/*  Reposive phone  Pixel 2 , Pixel2 XL ,  */
+
+@media screen and (max-width: 430px) {
+    .w-170{
+        width: 120px;
+    }
+    .h-170{
+        height: 120px;
+    }
+    .text-xlResposive{
+        font-size: 22px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 32%;
+}
+
+}
+@media screen and (max-width: 400px) {
+    .w-170{
+        width: 120px;
+    }
+    .h-170{
+        height: 120px;
+    }
+    .text-xlResposive{
+        font-size: 22px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 34%;
+}
+
+}
+/* Iphone 6 7 8 */
+@media screen and (max-width: 380px) {
+    .w-170{
+        width: 120px;
+    }
+    .h-170{
+        height: 120px;
+    }
+    .text-xlResposive{
+        font-size: 15px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 45%;
+}
+
+
+}
+/* Iphon Repsoive  */
+@media screen and (max-width: 378px) {
+    .w-170{
+        width: 120px;
+    }
+    .h-170{
+        height: 120px;
+    }
+    .text-xlResposive{
+        font-size: 15px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 35%;
+}
+
+
+}
+
+/* Iphone  */
+@media screen and (max-width: 360px) {
+    .w-170{
+        width: 120px;
+    }
+    .h-170{
+        height: 120px;
+    }
+    .text-xlResposive{
+        font-size: 15px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:45%;
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 36%;
+}
+
+}
+/* Galaxy fold */
+@media screen and (max-width: 290px) {
+    .pr-24{
+        padding-right: 5px;
+    }
+    .w-170{
+        width: 100px;
+    }
+    .h-170{
+        height: 100px;
+    }
+    .text-xlResposive{
+        font-size: 15px;
+    }
+   .DIsplayFlexAndsiplayblockinMobile{
+      flex-direction: column;
+   }
+   .ml-20Resposive{
+    margin-left:90px;
+    
+}
+.marginLeftResposiveTextType{
+    text-align: center;
+    padding-left: 5%;
+}
+
+}

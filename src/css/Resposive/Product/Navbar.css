@@ -1,0 +1,330 @@
+
+/* 25% Repsoive Tele  */
+@media screen and (max-width: 8000px) {
+    .MaeginTop005{
+        margin-top: 100px;
+    }
+    .displayNone8000{
+        display: none;
+    }
+    .DisplayNoneResposiveChnag{
+        display: flex;
+    }
+    .DisplayNoneBackgroundColor{
+        display: block;
+        position: absolute;
+        margin-top:70px;
+        height: 80px;
+    }
+    .marginLeftResposive300ProductIcon{
+        margin-left: 300px;
+      }
+    .WidhtResposiveInputProduct400{
+        width: 400px;
+        margin-right: 80px;
+    }
+    .WidhtResposiveInput{
+        width: 460px;
+    }
+ 
+    .justify-end-CenterResposive600{
+        justify-content: end;
+    }
+    .pl-36Resposive{
+        padding-left: 150px;
+    }
+    .widht50presentRepsoive{
+        width: 63%;
+    }
+    .pl-36ResposiveNavbar{
+        padding-left: 140px;
+    }
+    .w-70Responisive{
+        width: 70%;
+    }
+    .DiplayNoneResposive600{
+        display: none;
+    }
+    .ml-140Resposive{
+        margin-left: 140px;
+    }
+   .DisplayNoneMenuProduct{
+       display: none;
+   }
+   .fontsizeResposive16{
+       font-size: 16px;
+   }
+   .marginRight120Repsosive{
+       margin-right: 120px;
+   }
+   .w-50Reposive50{
+       width:150px;
+   }
+  }
+ 
+  /* widhtRespsivePresntage01 */
+  /* @media screen and (max-width: 8000px) {
+    .marginLeftReposive01Address{
+        width: 70%;
+        margin-left: 180px;
+    }
+  .widhtRespsivePresntage01{
+      width: 6137px;
+  }
+}
+
+  @media screen and (max-width: 5000px) {
+    .marginLeftReposive01Address{
+        width: 70%;
+        margin-left: 180px;
+    }
+  .widhtRespsivePresntage01{
+      width: 4600px;
+  }
+}
+@media screen and (max-width: 4000px) {
+    .marginLeftReposive01Address{
+        width: 70%;
+        margin-left: 180px;
+    }
+  .widhtRespsivePresntage01{
+      width: 3035px;
+  }
+}
+
+  @media screen and (max-width: 3000px) {
+    .marginLeftReposive01Address{
+ 
+        margin-left: 180px;
+    }
+  .widhtRespsivePresntage01{
+      width: 2279px;
+  }
+}
+
+@media screen and (max-width: 2200px) {
+   
+    .widhtRespsivePresntage01{
+        width: 2026px;
+    }
+}
+  @media screen and (max-width: 2000px) {
+ /*    .marginLeaftAutoContainer{
+        margin-left: auto;
+        margin-right: auto;
+    } */
+    /* .widhtRespsivePresntage01{
+        width: 1899px;
+    }
+    .marginLeftReposive01Address{
+        margin-left: 60px;
+
+    }
+}  */
+@media screen and (max-width: 8000px){
+    .marginLeaftInputAddress{
+        margin-left: 810px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left:2410px;
+    }
+}
+@media screen and (max-width: 5000px){
+    .marginLeaftInputAddress{
+        margin-left: 810px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left: 1650px;
+    }
+}
+
+@media screen and (max-width: 3100px){
+
+    .marginLeaftInputAddress{
+        margin-left: 820px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left: 860px;
+    }
+}
+@media screen and (max-width: 2400px){
+
+    .marginLeaftInputAddress{
+        margin-left: 820px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left: 480px;
+    }
+}
+@media screen and (max-width: 2100px){
+
+    .marginLeaftInputAddress{
+        margin-left: 840px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left: 350px;
+    }
+}
+@media screen and (max-width: 2000px){
+
+    .marginLeaftInputAddress{
+        margin-left: 800px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left: 300px;
+    }
+}
+
+@media screen and (max-width: 1900px){
+    .marginLeaftInputAddress{
+        margin-left: 820px;
+    }
+    .marginLeaftAddresResposive{
+        margin-left: 190px;
+    }
+}
+
+  @media screen and (max-width: 1600px) {
+   .MaeginTop005{
+       margin-top: 0px;
+   }
+      .displayNone8000{
+          display: block;
+      }
+      .DisplayNoneResposiveChnag{
+          display: none;
+      }
+      .DisplayNoneBackgroundColor{
+          display: none;
+      }
+     .BackgroundColorF4F4F4{
+         background: #f4f4f4;
+     }
+      .w-6-12{
+          width: 50%;
+          margin-left: 0px;
+
+      }
+      
+    .widhtRespsivePresntage01{
+        width: 100%;
+    }
+    .marginLeftReposive01Address{
+        margin-left: 0px;
+    }
+}
+/* Reposive 125% */
+
+  @media screen and (max-width: 1300px) {
+    .WidhtResposiveInputProduct400{
+        width: 400px;
+        margin-right: 0px;
+    }
+    .fontsizeResposive16{
+        font-size: 14px;
+    }
+    .ml-140Resposive{
+        margin-left: 20px;
+    }
+   }
+/* Reposive 125% */
+
+   @media screen and (max-width: 1200px) {
+    .marginRight120Repsosive{
+        margin-right: 10px;
+    }
+    .fontsizeResposive16{
+        font-size: 13px;
+    }
+    .w-50Reposive50{
+        width:130px;
+    }
+   }
+/* Reposive 125% */
+
+   @media screen and (max-width: 1100px) {
+       .pl-36Resposive{
+           padding-left: 20px;
+       }
+       .pl-36ResposiveNavbar{
+           padding-left: 20px;
+       }
+    .w-50Reposive50{
+
+        width:120px;
+    }
+    .fontsizeResposive16{
+        font-size: 12px;
+    }
+   }
+/*  DiplayNoneResposive600*/
+/* WidhtResposiveInputProduct400 */
+@media screen and (max-width: 900px) {
+    .DiplayNoneResposive600{
+        display: block;
+    }
+    .DisplayNooneReposive700TextProduct{
+        display: none;
+    }
+}
+   @media screen and (max-width: 700px) {
+       .justify-end-CenterResposive600{
+           justify-content: center;
+       }
+       .widht50presentRepsoive{
+           width: 100%;
+       }
+     
+       .DisplayNooneReposive700TextProduct{
+           display: none;
+       }
+       .DiplayNoneResposive600{
+           display: block;
+       }
+    .DisplayNoneMenuProduct{
+        display: block;
+    }
+    .fontsizeResposive16{
+        font-size: 12px;
+    }
+    .w-50Reposive50{
+        width:110px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .displayNoneTextReposiveAddres{
+        display: none;
+    }
+   }
+/* marginLeftResposive300ProductIcon */
+   @media screen and (max-width: 420px) {
+       .WidhtResposiveInputProduct400{
+           width: 350px;
+       }
+   }
+   @media screen and (max-width: 330px) {
+    .WidhtResposiveInputProduct400{
+        width: 280px;
+    }
+    .marginLeftResposive300ProductIcon{
+        margin-left:240px;
+    }
+    .Placholder::placeholder{
+        
+        font-size: 14px;
+    }
+    
+}
+@media screen and (max-width: 280px) {
+    .WidhtResposiveInputProduct400{
+        width: 240px;
+    }
+    .marginLeftResposive300ProductIcon{
+        margin-left:200px;
+    }
+    .Placholder::placeholder{
+        
+        font-size: 12px;
+    }
+    
+}
