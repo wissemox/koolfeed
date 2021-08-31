@@ -1,0 +1,602 @@
+/* DaitedProductResposiveWithHeaight : image on click change */
+/* Heaight590 : Main Image  */
+/* Descraption :  fontSizeProductDatied
+    Descratpio With ; WidthProductDatiedDescraption */
+/* widhtMainImage : widhtImageProductDaited */
+/* Flex : flexDisplayBlockFullProductDatied */
+@media screen and (max-width: 8000px) {
+    .ml-40ResposiveFullProductDatied{
+        margin-left: 10rem;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top: 240px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 590px;
+        height: 590px;
+    }
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 15vh;
+    }
+    .PaddinngDatitedProductName{
+        padding: 16%;
+    }
+    .DisplayOnlyIngalxyFold{
+        display: none;
+    }
+    .MarginRightResposivePrestage30{
+        margin-right: 30px;
+    }
+    .widhtPrestageDatited10pr{
+        width: 10%;
+    }
+    .widht100PresntageAddcart{
+        width: 100%;
+    }
+    .fontsizeRate20ProducctDatied{
+        font-size: 20px;
+    }
+    .widhtpresntageProductDatied{
+        width: 50%;
+    }
+    .widhtPresntage45{
+        width: 45%;
+    }
+    .widhtImageProductDaited{
+        width: 100%;
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: flex;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 120px;
+        height: 120px;
+    }
+    .Heaight590{
+        height: 587px;
+    }
+    .WidthProductDatiedDescraption{
+        width: 580px;
+    }
+    .fontSizeProductDatied{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 1600px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 8vh;
+    }
+}
+@media screen and (max-width: 1400px) {
+  
+    .ml-40ResposiveFullProductDatied{
+        margin-left: 30vh;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top: 220px;
+    }
+
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 560px;
+        height: 560px;
+    }
+  
+    .DaitedProductResposiveWithHeaight{
+        width: 110px;
+        height:110px;
+    }
+    .Heaight590{
+        height: 578px;
+    }
+}
+/*  */
+@media screen and (max-width: 1300px) { 
+    .ml-40ResposiveFullProductDatied{
+        margin-left: 15vh;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top: 180px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 580px;
+        height: 580px;
+    }
+  
+    .fontSizeProductDatied{
+        font-size: 13px;
+    }
+    .WidthProductDatiedDescraption{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 330px;
+    }
+.ml-40ResposiveFullProductDatied{
+    margin-left: 30px;
+}
+    .marginTopResposiveNavigteNextIcon{
+        
+        margin-top:250px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 580px;
+        height: 580px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 100px;
+        height:100px;
+    }
+    .Heaight590{
+        height: 570px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .marginTopResposiveNavigteNextIcon{
+        margin-top: 250px;
+    }
+   
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 560px;
+        height: 560px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left: 5vh;
+    }
+    .WidthProductDatiedDescraption{
+        width: 450px;
+    }
+    .Heaight590{
+        height: 562px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 90px;
+        height:90px;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 8vh;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top:300px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left:-70px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 600px;
+        height: 600px;
+    }
+    .PaddinngDatitedProductName{
+        background-color: re;
+    }
+    .WidthProductDatiedDescraption{
+        width: 400px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 80px;
+        height:80px;
+    }
+    .Heaight590{
+        height: 558px;
+    }
+}
+/* flexDisplayBlockFullProductDatied */
+@media screen and (max-width: 800px) {
+    .ml-40ResposiveFullProductDatied{
+        margin-left: -130px;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top: 250px;
+    }
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 45px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 600px;
+        height: 600px;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 30px;
+    }
+    .widhtpresntageProductDatied{
+        width: 100%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:570px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+
+        width: 570px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 120px;
+        height:120px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 350px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 170px;
+    }
+    .widht100PresntageAddcart{
+        width: 100%;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 15px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 570px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    
+    .marginLeaftResposivePHone{
+        margin-left: 10px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+   
+        width: 570px;
+    }
+}
+@media screen and (max-width: 730px) {
+    .marginLeaftResposivePHone{
+        margin-left: 0px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 570px;
+    }
+}
+
+
+/* Phone */
+
+@media screen and (max-width: 700px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 80px;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top: 240px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left:-170px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 550px;
+        height:550px;
+    }
+    .PaddinngDatitedProductName{
+        font-size: 30px;
+        padding-top: 25%;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 15px;
+    }
+    .widhtpresntageProductDatied{
+        width: 100%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:450px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 450px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 90px;
+        height:90px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 350px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+ 
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 440px;
+        height:550px;
+    }
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 80px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left:-150px;
+    }
+    
+    .marginLeaftResposivePHone{
+        margin-left: 0px;
+    }
+    .widhtpresntageProductDatied{
+        width: 100%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:450px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 450px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 90px;
+        height:90px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 350px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+}
+@media screen and (max-width: 550px) {
+  
+
+    .marginLeaftResposivePHone{
+        margin-left: 10px;
+    }
+    .widhtpresntageProductDatied{
+        width: 100%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:400px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 400px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 80px;
+        height:80px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 300px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .marginTopResposiveNavigteNextIcon{
+        margin-top:172px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left:-180px;
+    }
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 150px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 400px;
+        height: 400px;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 40px;
+    }
+    .widhtpresntageProductDatied{
+        width: 115%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:300px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 300px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 50px;
+        height:50px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 200px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    .ml-40ResposiveFullProductDatied{
+        margin-left:-180px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 328px;
+        height: 380px;
+    }
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 140px;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 5px;
+    }
+    .widhtpresntageProductDatied{
+        width: 100%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:300px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 300px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 50px;
+        height:50px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 200px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+}
+/* Iphone */
+
+@media screen and (max-width: 380px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 200px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left: -180px;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top:140px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 280px;
+        height: 320px;
+    }
+    .widhtPrestageDatited10pr{
+        display: none;
+    }
+    .NumberFonsize{
+        margin-top: 5px;
+    }
+    .p-3{
+        padding: 0px;
+    }
+    .fontSizeAddCart{
+        font-size: 9px;
+    }
+    .widht100PresntageAddcart{
+        width: 60%;
+        height: 35px;
+    }
+    .Fontsize14productDatied{
+        font-size: 11px;
+    }
+    .fontsizeRate20ProducctDatied{
+        font-size: 15px;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 20px;
+    }
+    .widhtpresntageProductDatied{
+        width: 100%;
+    }
+    .widhtPresntage45{
+        width: 100%;
+    }
+    .widhtImageProductDaited{
+        width:200px;
+    }
+    .WidthProductDatiedDescraption{
+        text-align: justify;
+        width: 200px;
+    }
+    .DaitedProductResposiveWithHeaight{
+        width: 40px;
+        height:40px;
+    }
+    .Heaight590{
+        margin-left: 40px;
+        margin-bottom: 20px;
+        height: 180px;
+       
+        
+    }
+    .flexDisplayBlockFullProductDatied{
+        display: block;
+    }
+    .MarginRightResposivePrestage30{
+        margin-right: 15px;
+    }
+}
+@media screen and (max-width: 340px) {
+    .ml-40ResposiveFullProductDatied{
+        margin-left: -170px;
+    }
+    .marginTopResposiveNavigteNextIcon{
+        margin-top:90px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 230px;
+        height: 230px;
+    }
+}
+@media screen and (max-width: 290px) {
+    .marginTopResposiveFullscrenProductall{
+        margin-top: 170px;
+    }
+    .widhtHeaight590RepsoisveFullproductDatied{
+        width: 200px;
+        height: 250px;
+    }
+    .ml-40ResposiveFullProductDatied{
+        margin-left: -180px;
+    }
+    .DisplayNoneinGalxyFold{
+        display: none;
+    }
+    .DisplayOnlyIngalxyFold{
+        display: flex;
+    }
+    .marginLeaftResposivePHone{
+        margin-left: 0px;
+    }
+}

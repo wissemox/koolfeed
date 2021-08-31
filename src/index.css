@@ -120,6 +120,13 @@ button.rec-dot:hover, button.rec-dot:active, button.rec-dot:focus  {
   -o-background-size: cover;
   background-size: cover;
 }
+.BackgroundimageFullimage008{
+  background: url('IamgeKoolfeed.jpg') no-repeat ;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .TestANimationclick{
   -webkit-transition: 2s;
   animation:animatio 1s;

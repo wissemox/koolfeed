@@ -4,6 +4,8 @@ import AddressBar from "./AddressBar";
 import Filter from "./Filter";
 import Carsoul from "./Carousel02";
 import ProductMap from "./map/ProductMap";
+import {BrowserRouter ,Route, Switch} from 'react-router-dom'
+
 import {
   Container,
   Box,
@@ -36,6 +38,7 @@ const Product = ({ match }) => {
   const [Rate, setRate] = useState(0);
   const [ProductAll, setProductAll] = useState([
     {
+      id:0,
       Catgories: "Japonais",
       Préférences: "Sushi",
       Address: "azdadz",
@@ -46,6 +49,7 @@ const Product = ({ match }) => {
       price: 50,
     },
     {
+      id:1,
       Catgories: "Japonais",
       Address: "azdadz",
       Name: "ramen",
@@ -55,6 +59,7 @@ const Product = ({ match }) => {
       price: 60,
     },
     {
+      id:2,
       Catgories: "Japonais",
       Address: "azdadz",
       Name: "mochi ice cream",
@@ -65,6 +70,7 @@ const Product = ({ match }) => {
     },
 
     {
+      id:3,
       Catgories: "Japonais",
       Address: "azdadz",
       Name: "mochi ice cream",
@@ -74,6 +80,7 @@ const Product = ({ match }) => {
       price: 70,
     },
     {
+      id:4,
       Catgories: "Japonais",
       Address: "azdadz",
       Name: "japanese ginger pork",
@@ -84,6 +91,7 @@ const Product = ({ match }) => {
     },
     // japanesegingerpork01
     {
+      id:5,
       Catgories: "Japonais",
       Address: "azdadz",
       Name: "japanese ginger pork",
@@ -93,6 +101,7 @@ const Product = ({ match }) => {
       price: 70,
     },
     {
+      id:6,
       Catgories: "Mexicain",
       Address: "azdadz",
       Name: "Chilaquiles",
@@ -102,6 +111,7 @@ const Product = ({ match }) => {
       price: 50,
     },
     {
+      id:7,
       Catgories: "Italien",
       Address: "azdadz",
       Préférences: "Pizza",
@@ -112,6 +122,7 @@ const Product = ({ match }) => {
       price: 50,
     },
     {
+      id:8,
       Catgories: "Italien",
       Address: "azdadz",
       Préférences: "Pizza",
@@ -122,6 +133,7 @@ const Product = ({ match }) => {
       price: 50,
     },
     {
+      id:9,
       Catgories: "Américain",
       Address: "azdadz",
       Préférences: "Pizza",
@@ -147,8 +159,10 @@ const Product = ({ match }) => {
   };
   window.addEventListener("scroll", changeBackground);
   return (
+    
     <div className="">
       {console.log(Catgories)}
+      
       <Navbar
         Rate={Rate}
         setRate={setRate}
