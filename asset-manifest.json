@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/koolfeed/static/css/main.e3981f81.chunk.css",
+    "main.js": "/koolfeed/static/js/main.a78f19d1.chunk.js",
+    "main.js.map": "/koolfeed/static/js/main.a78f19d1.chunk.js.map",
+    "runtime-main.js": "/koolfeed/static/js/runtime-main.6be50c2b.js",
+    "runtime-main.js.map": "/koolfeed/static/js/runtime-main.6be50c2b.js.map",
+    "static/css/2.6ddb970a.chunk.css": "/koolfeed/static/css/2.6ddb970a.chunk.css",
+    "static/js/2.543cc51a.chunk.js": "/koolfeed/static/js/2.543cc51a.chunk.js",
+    "static/js/2.543cc51a.chunk.js.map": "/koolfeed/static/js/2.543cc51a.chunk.js.map",
+    "static/js/3.ac382d83.chunk.js": "/koolfeed/static/js/3.ac382d83.chunk.js",
+    "static/js/3.ac382d83.chunk.js.map": "/koolfeed/static/js/3.ac382d83.chunk.js.map",
+    "index.html": "/koolfeed/index.html",
+    "static/css/2.6ddb970a.chunk.css.map": "/koolfeed/static/css/2.6ddb970a.chunk.css.map",
+    "static/css/main.e3981f81.chunk.css.map": "/koolfeed/static/css/main.e3981f81.chunk.css.map",
+    "static/js/2.543cc51a.chunk.js.LICENSE.txt": "/koolfeed/static/js/2.543cc51a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/koolfeed/static/media/Untitled-4.9431fc06.png",
+    "static/media/logo.6ce24c58.svg": "/koolfeed/static/media/logo.6ce24c58.svg",
+    "static/media/slick-theme.css": "/koolfeed/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6be50c2b.js",
+    "static/css/2.6ddb970a.chunk.css",
+    "static/js/2.543cc51a.chunk.js",
+    "static/css/main.e3981f81.chunk.css",
+    "static/js/main.a78f19d1.chunk.js"
+  ]
+}
